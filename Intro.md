@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on Git hub and discord
 - 📫 How to reach me: discord
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Nintendo is the most famous company in Japan, Nintendo started shortly after samurai period was over.
+- Likes: Gaming, Anime & manga, coding, reading.
+- Dislikes: Loudness and bullies
 
 <!---
 Joshicodex05/Joshicodex05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
